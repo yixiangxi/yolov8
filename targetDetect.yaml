@@ -1,0 +1,13 @@
+path: C:\Users\lenovo\PycharmProjects\targetDetection\dataset
+train: C:\Users\lenovo\PycharmProjects\targetDetection\dataset\images\train
+val: C:\Users\lenovo\PycharmProjects\targetDetection\dataset\images\train
+
+
+nc: 4
+
+#names:['0','1','2','3']
+#safebelt
+#offground
+#ground
+#armband(red)
+names: [safebelt, offground, ground, armband(red)]
